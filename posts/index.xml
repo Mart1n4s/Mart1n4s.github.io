@@ -14,9 +14,18 @@
             <pubDate>Mon, 02 Dec 2024 14:54:42 +0200</pubDate>
             
             <guid>http://localhost:1313/posts/puslapis/</guid>
-            <description>&lt;p&gt;Cia yra puslapis&lt;/p&gt;</description>
+            <description>&lt;p&gt;Cia yra puslapis&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/rytas.jpg&#34; alt=&#34;Example Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Here is a code snippet:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
             <content type="html"><![CDATA[<p>Cia yra puslapis</p>
-]]></content>
+<p><img src="/rytas.jpg" alt="Example Image"></p>
+<p>Here is a code snippet:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">hello_world</span>():
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">&#34;Hello, world!&#34;</span>)
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>
